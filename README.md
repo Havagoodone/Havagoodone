@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Havagoodone
 - 👀 I’m interested in AI Engineering
 - 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Computer Vision Project
+- 💞️ I’m looking to collaborate on Deep Learning Project
 - 📫 How to reach me mangsuhyun606@gmail.com
 
 <!---
