@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Havagoodone.
-- 👀 I’m interested in AI Engineering and Edge Computing.
-- 💞️ I’m looking to collaborate on computer vision projects.
+- 👀 I’m interested in AI Engineering and Backend.
 - 📫 How to reach me mangsuhyun606@gmail.com
 
 
