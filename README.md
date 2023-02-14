@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Havagoodone.
-- 👀 I’m interested in AI Engineering, backend and hardware.
+- 👀 I’m interested in AI engineering, backend and hardware.
 - 📫 How to reach me mangsuhyun606@gmail.com
 
 
